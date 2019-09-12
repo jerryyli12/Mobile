@@ -4,8 +4,9 @@
     <string name="score">Your score: </string>
     <string name="responsePrompt">Type your answer</string>
     <string name="submit_button">Submit</string>
-    <string name="leaderboard">Leaderboard</string>
+    <string name="leaderboard">Top 10 of All Time</string>
     <string name="name1">na</string>
     <string name="score1">na</string>
     <string name="start">Press the button to begin.</string>
+    <string name="time">Time: %1$d</string>
 </resources>
